@@ -29,7 +29,7 @@ class NotPrime
 
     public function comprovation()
     {
-        for ($j = 1; $j <= 10; $j++) {
+        for ($j = 1; $j <= 1000; $j++) {
 
             $ran_number = rand(1, 5000000);
 
