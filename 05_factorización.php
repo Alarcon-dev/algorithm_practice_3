@@ -84,4 +84,4 @@ class Factorizacion
 }
 
 $factorizarcion = new Factorizacion;
-echo $factorizarcion->printValues(28) . "\n";
+echo $factorizarcion->printValues(6) . "\n";
